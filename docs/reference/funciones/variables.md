@@ -27,3 +27,7 @@
 10. Crear una variable `m` que guarde si `a + b` es igual a `b + a`. Verifique que siempre da `true`, cumpliendo la conmutatividad de la suma.
 11. Crear una variable `n` que eleve al cuadrado a `a`.
 12. Crear una variable `o` que sea el módulo de `a`.
+
+# Funciones
+
+1. Crear una función que reciba horas y minutos, y devuelva la cantidad de segundos que representa su suma.
