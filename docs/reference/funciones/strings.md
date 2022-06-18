@@ -24,3 +24,4 @@ para `Hola, buen día. Quisiera un té con tostados.` devuelve `Hola, buen (día
 _ _ _ _            _ _ _ _ _         _ _         _ _ 
        | _ _ _ _ |           | _ _ |     | _ _ |    
 ```
+15. Crear una función que dada una string, indique si solo contiene dígitos.
