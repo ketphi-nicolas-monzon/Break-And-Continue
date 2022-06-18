@@ -56,3 +56,4 @@
   * [Algoritmos de compresión](reference/temas-variados/algoritmos-de-compresion.md)
 * [Buenas prácticas](reference/buenas-practicas.md)
 * [Métricas](reference/metricas.md)
+* [Bitwase](reference/bitwase.md)
