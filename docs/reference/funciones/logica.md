@@ -14,12 +14,50 @@
 
 ## Condicionales
 
-1. Dado el siguiente código, indique cómo puede simplificarse.\
-
-2. Dado el siguiente código, indique cómo puede simplificarse.\
-
-3. Dado el siguiente código, indique cómo puede simplificarse.\
-
-4. Dado el siguiente código, indique cómo puede simplificarse.\
-
-5. Dado el siguiente código, indique cómo puede simplificarse.\
+1. Dado el siguiente código, indique cómo puede simplificarse.
+```java
+if(a > b) {
+    if(b > c) {
+        System.out.println("OK");
+    }
+}
+```
+2. Dado el siguiente código, indique cómo puede simplificarse.
+```java
+if(a > b) {
+    System.out.println("OK");
+}
+if(b > c) {
+    System.out.println("OK");
+}
+```
+3. Dado el siguiente código, indique cómo puede simplificarse.
+```java
+if(a > b) {
+    System.out.println("OK");
+    System.out.println("OK1");
+} else {
+    System.out.println("OK");
+    System.out.println("OK2");
+}
+```
+4. Dado el siguiente código, indique cómo puede simplificarse.
+```java
+if(a > b || a <= b) {
+    System.out.println("OK");
+    System.out.println("OK1");
+} else {
+    System.out.println("OK");
+    System.out.println("OK2");
+}
+```
+5. Dado el siguiente código, indique cómo puede simplificarse.
+```java
+if(a > b && a <= b) {
+    System.out.println("OK");
+    System.out.println("OK1");
+} else {
+    System.out.println("OK");
+    System.out.println("OK2");
+}
+```
